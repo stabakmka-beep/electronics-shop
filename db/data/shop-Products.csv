@@ -1,0 +1,16 @@
+sku,name,description,category,price,currency,stock,imageUrl,active
+LAP-1001,UltraBook 14,"14-inch lightweight laptop, 16 GB RAM, 512 GB SSD",Laptops,999,USD,25,https://example.com/img/lap-1001.jpg,true
+LAP-1002,ProBook 16,"16-inch performance laptop, 32 GB RAM, 1 TB SSD",Laptops,1499,USD,12,https://example.com/img/lap-1002.jpg,true
+PHN-2001,Nova X Smartphone,"6.5-inch OLED display, 128 GB storage, dual camera",Phones,599,USD,60,https://example.com/img/phn-2001.jpg,true
+PHN-2002,Nova X Pro,"6.7-inch OLED display, 256 GB storage, triple camera",Phones,849,USD,35,https://example.com/img/phn-2002.jpg,true
+TAB-3001,Slate 10 Tablet,"10-inch tablet, 64 GB storage, Wi-Fi",Tablets,329,USD,40,https://example.com/img/tab-3001.jpg,true
+TV-4001,VisionView 55 4K TV,55-inch 4K smart TV with HDR,TVs,549,USD,15,https://example.com/img/tv-4001.jpg,true
+TV-4002,VisionView 65 4K TV,65-inch 4K smart TV with HDR,TVs,799,USD,8,https://example.com/img/tv-4002.jpg,true
+AUD-5001,BassBeat Headphones,Wireless over-ear headphones with noise cancelling,Audio,199,USD,80,https://example.com/img/aud-5001.jpg,true
+AUD-5002,PocketPods,True wireless earbuds with charging case,Audio,79,USD,150,https://example.com/img/aud-5002.jpg,true
+AUD-5003,SoundBar 300,Compact soundbar with wireless subwoofer,Audio,249,USD,20,https://example.com/img/aud-5003.jpg,true
+WRB-6001,FitBand 5,Fitness tracker with heart-rate monitor,Wearables,59,USD,100,https://example.com/img/wrb-6001.jpg,true
+WRB-6002,ChronoWatch S,Smartwatch with GPS and 5-day battery,Wearables,229,USD,45,https://example.com/img/wrb-6002.jpg,true
+ACC-7001,FastCharge 65W,65 W USB-C wall charger,Accessories,39,USD,200,https://example.com/img/acc-7001.jpg,true
+ACC-7002,PowerBank 20K,"20,000 mAh portable power bank",Accessories,45,USD,0,https://example.com/img/acc-7002.jpg,true
+CAM-8001,ActionCam 4K,Waterproof 4K action camera,Cameras,179,USD,30,https://example.com/img/cam-8001.jpg,true

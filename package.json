@@ -1,0 +1,23 @@
+{
+  "name": "electronics-shop",
+  "version": "0.1.0",
+  "description": "Standalone electronics web shop on SAP BTP (CAP, Node.js)",
+  "private": true,
+  "dependencies": {
+    "@sap/cds": "^8",
+    "express": "^4"
+  },
+  "devDependencies": {
+    "@cap-js/sqlite": "^1",
+    "@sap/cds-dk": "^8",
+    "axios": "^1.21.0",
+    "exceljs": "^4",
+    "mocha": "^12.0.3"
+  },
+  "scripts": {
+    "start": "cds-serve",
+    "watch": "cds watch",
+    "import": "node scripts/import-excel.js",
+    "test": "mocha test --timeout 20000 --exit"
+  }
+}
